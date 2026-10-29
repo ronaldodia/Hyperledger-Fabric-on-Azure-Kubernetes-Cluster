@@ -8,10 +8,10 @@
   "dependencies": {
     "@azure/ms-rest-js": "^2.0.5",
     "@azure/storage-blob": "^12.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.34.0",
     "js-yaml": "^3.13.1",
     "kubernetes-client": "^8.3.7",
-    "uuid": "^3.4.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {}
 }
